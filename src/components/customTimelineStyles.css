@@ -1,0 +1,9 @@
+.react-calendar-timeline .timeline-header .root .rct-header-root .rct-date-Header {
+    background-color: green;
+    color: white;
+}
+
+.react-calendar-timeline .timeline-item {
+    background-color: red;
+
+}
